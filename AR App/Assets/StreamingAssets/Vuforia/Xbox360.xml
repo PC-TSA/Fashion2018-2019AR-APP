@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Xbox360"/>
+
+</Tracking>
+
+<Assembly name="Xbox360s_assembly" assemblyId="7d5751fb724445738c9ff90f21662821">
+<Part name="Xbox360" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.000378111 0.00106252 0.153695" rotation="AD: 0.9999999999328484 -0.0002876948117944336 -0.04031577505221822 179.183">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.00424365 0.00102444 0.151027" rotation="AD: 0.9999970913768547 -0.004512713529230684 -0.6323838180631444 179.309">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="0.00386553 0.000957621 0.146346" rotation="AD: -0.9999275333804244 0.013596160654527773 1.905282028211492 180.38">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-0.000378111 0.000928886 0.144332" rotation="AD: 0.9847186420180446 0.17429870607809117 24.425144764710538 179.967">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="-0.00424365 0.000966967 0.147001" rotation="AD: 0.9999545255289075 0.011283796765522219 1.581241626486716 179.563">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="-0.00386553 0.00103378 0.151682" rotation="AD: 0.999998485602924 0.0037451189416181766 0.524817850736643 179.276">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
